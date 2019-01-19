@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ruurtjan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ruurtjan.com
+  * I am ruurtjan (https://keybase.io/ruurtjan) on keybase.
+  * I have a public key ASBOHPUSRKQ74sdteSQwaOUEZ6Rga7C1DgPZgMlI45ougwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120eb505f8984b8966250e7c2348746c2b30d87d05aea6603143207d86e87e1502c0a",
+            "host": "keybase.io",
+            "kid": "01204e1cf51244a43be2c76d79243068e50467a4606bb0b50e03d980c948e39a2e830a",
+            "uid": "21136168574d4069a0d51e7d5c74de19",
+            "username": "ruurtjan"
+        },
+        "service": {
+            "hostname": "ruurtjan.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494958531,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494958503,
+        "hash": "4ef126e2a5fcfa5a70453248cba48ad7632740bc34d32138828d4bd37441c56c9d7c7f50390cf4eb96d7c763aca20f0f6d4d2f6fdef54e04808eea4f4cffe221",
+        "seqno": 1088466
+    },
+    "prev": "4cbd96c1b0448338abfe23be1f30b7cb54b4db86fe8ef09506110550b493b734",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgThz1EkSkO+LHbXkkMGjlBGekYGuwtQ4D2YDJSOOaLoMKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWI1MDVmODk4NGI4OTY2MjUwZTdjMjM0ODc0NmMyYjMwZDg3ZDA1YWVhNjYwMzE0MzIwN2Q4NmU4N2UxNTAyYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGUxY2Y1MTI0NGE0M2JlMmM3NmQ3OTI0MzA2OGU1MDQ2N2E0NjA2YmIwYjUwZTAzZDk4MGM5NDhlMzlhMmU4MzBhIiwidWlkIjoiMjExMzYxNjg1NzRkNDA2OWEwZDUxZTdkNWM3NGRlMTkiLCJ1c2VybmFtZSI6InJ1dXJ0amFuIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJydXVydGphbi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMiJ9LCJjdGltZSI6MTQ5NDk1ODUzMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk0OTU4NTAzLCJoYXNoIjoiNGVmMTI2ZTJhNWZjZmE1YTcwNDUzMjQ4Y2JhNDhhZDc2MzI3NDBiYzM0ZDMyMTM4ODI4ZDRiZDM3NDQxYzU2YzlkN2M3ZjUwMzkwY2Y0ZWI5NmQ3Yzc2M2FjYTIwZjBmNmQ0ZDJmNmZkZWY1NGUwNDgwOGVlYTRmNGNmZmUyMjEiLCJzZXFubyI6MTA4ODQ2Nn0sInByZXYiOiI0Y2JkOTZjMWIwNDQ4MzM4YWJmZTIzYmUxZjMwYjdjYjU0YjRkYjg2ZmU4ZWYwOTUwNjExMDU1MGI0OTNiNzM0Iiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHHl1yWDQBQ0m2SmHLsc8L+NzmiL9YJ3jrkQ3bshZog3flfmf1YmUhlgOozXtAv+ahdXmclazt9/mSZ7NxJY0AGoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBqzt73eblEF/1frB16zhFyWSVon8+4+2fhhzpuOZ7OOKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ruurtjan
+
+==================================================================
